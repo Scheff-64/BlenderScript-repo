@@ -5,3 +5,4 @@
  This repo contains the following Scripts:
 
  * A custom pie menu with shortcuts to a Subdivision modifier, select sharp edges, mark seams and shade smooth.
+ * Two short exercises making one selection tool and one mesh editing tool.
